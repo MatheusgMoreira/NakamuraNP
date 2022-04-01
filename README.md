@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript / React
 
 <div align="center">
   <a href="https://github.com/NakamuraNP">
